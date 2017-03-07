@@ -1,0 +1,3 @@
+[submodule "jquery.mosaicflow"]
+	path = jquery.mosaicflow
+	url = https://github.com/sapegin/jquery.mosaicflow.git
